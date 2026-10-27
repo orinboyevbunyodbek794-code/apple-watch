@@ -7,6 +7,10 @@
 *:focus {
   outline: 2px dotted blue;
 }
+html{
+  scroll-behavior: smooth;
+
+}
 :root {
   --text-color: rgba(51, 51, 51, 1);
 }
